@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="app_languages">语言</string>
+    <string name="app_welcome">欢迎来到猜数字</string>
+    <string name="app_button">按!!!</string>
+    <string name="flag_desc">国旗图片</string>
+    <string name="question_text">这面国旗属于哪个国家？</string>
+    <string name="option1">选项一</string>
+    <string name="option2">选项二</string>
+    <string name="option3">选项三</string>
+</resources>

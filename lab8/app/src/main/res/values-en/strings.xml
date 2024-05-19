@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="app_languages">languages</string>
+    <string name="app_welcome">Welcome to guess the number</string>
+    <string name="app_button">Press!!!</string>
+    <string name="flag_desc">国旗图片</string>
+    <string name="question_text">这面国旗属于哪个国家</string>
+    <string name="option1">选项一</string>
+    <string name="option2">选项二</string>
+    <string name="option3">选项三</string>
+</resources>
